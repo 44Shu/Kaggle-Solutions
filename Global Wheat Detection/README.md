@@ -1,5 +1,7 @@
 ## Final Rank:  151/2245 SOLO BRONZE MEDAL
 
+Competition description: https://www.kaggle.com/c/global-wheat-detection
+
 Original submission used YOLOV5 model with Pseudo Labeling method, which used OOF-evaluation to search the best `score_threshold` for final prediction.  
 Discarded this kernel due to the competition policy restrict the use of YOLOV5, so I finally chose the effnet and other models, which is under MIT license, 
 to be my final submissions. Private Score: 0.6667; Public Score: 0.7685 (not submitted)
