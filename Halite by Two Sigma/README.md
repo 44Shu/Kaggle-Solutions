@@ -6,9 +6,14 @@ Solution repo:
 https://github.com/IDl0T/halite20 
 
 Teammates: 
+
 https://www.kaggle.com/markhaoxiang
+
 https://www.kaggle.com/idiott
+
 https://www.kaggle.com/chengtianyue
+
 https://www.kaggle.com/tangshuyun
+
 https://www.kaggle.com/atikahamed
 
