@@ -1,6 +1,8 @@
 # Kaggle-Solutions
 This is Shuyun Tang's Kaggle Solution Repo. Please check the folders for the solutions and details of each competitions.
 
+Shuyun's Kaggle profile: https://www.kaggle.com/tangshuyun
+
 ### Global Wheat Detection: SOLO BRONZE MEDAL (151/2245). 
 My first Kaggle competition. Both Notebooks' frameworks were heavily insp from the references listed inside. 2020.7
 
